@@ -1,4 +1,4 @@
-# STL-files-for-3D-printed-spheroids-generator
+# STL-files-for-3D-printed-spheroid-generator
 
 These are all the STL files for 3D printing the spheroids generator as described in X et al., 202X.
 

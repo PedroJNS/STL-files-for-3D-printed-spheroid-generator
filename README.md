@@ -1,6 +1,6 @@
 # STL-files-for-3D-printed-spheroid-generator
 
-These are all the STL files for 3D printing the spheroids generator as described in X et al., 202X.
+These are all the STL files for 3D printing the spheroids generator as described in P. Navarrete-Segado et al., 2026.
 
 The printing dimesions should be as follows for the file,
 
